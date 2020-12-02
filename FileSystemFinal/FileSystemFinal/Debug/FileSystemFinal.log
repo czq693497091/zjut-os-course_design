@@ -1,0 +1,12 @@
+﻿  OSManager.cpp
+f:\2019计算机\大三上\操作系统\操作系统课程设计\操作系统练习\filesystemfinal\filesystemfinal\osmanager.cpp(125): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+f:\2019计算机\大三上\操作系统\操作系统课程设计\操作系统练习\filesystemfinal\filesystemfinal\osmanager.cpp(135): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+f:\2019计算机\大三上\操作系统\操作系统课程设计\操作系统练习\filesystemfinal\filesystemfinal\osmanager.cpp(155): warning C4018: “>”: 有符号/无符号不匹配
+f:\2019计算机\大三上\操作系统\操作系统课程设计\操作系统练习\filesystemfinal\filesystemfinal\osmanager.cpp(212): warning C4018: “<”: 有符号/无符号不匹配
+f:\2019计算机\大三上\操作系统\操作系统课程设计\操作系统练习\filesystemfinal\filesystemfinal\osmanager.cpp(246): warning C4018: “<”: 有符号/无符号不匹配
+f:\2019计算机\大三上\操作系统\操作系统课程设计\操作系统练习\filesystemfinal\filesystemfinal\osmanager.cpp(421): warning C4018: “<”: 有符号/无符号不匹配
+f:\2019计算机\大三上\操作系统\操作系统课程设计\操作系统练习\filesystemfinal\filesystemfinal\osmanager.cpp(528): warning C4018: “<”: 有符号/无符号不匹配
+f:\2019计算机\大三上\操作系统\操作系统课程设计\操作系统练习\filesystemfinal\filesystemfinal\osmanager.cpp(724): warning C4018: “<”: 有符号/无符号不匹配
+  FileSystemFinal.vcxproj -> F:\2019计算机\大三上\操作系统\操作系统课程设计\操作系统练习\FileSystemFinal\Debug\FileSystemFinal.exe
